@@ -1,7 +1,7 @@
-POST https://osa3-2024.onrender.com/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "Ammu Hurtta",
-    "number": "045-549493820"
+    "name": "Antero Hurtta",
+    "number": "04-54949"
 }
